@@ -1,0 +1,10 @@
+E:\12C\C#\Fructe\Fructe\obj\Debug\Fructe.csprojAssemblyReference.cache
+E:\12C\C#\Fructe\Fructe\obj\Debug\Fructe.Form1.resources
+E:\12C\C#\Fructe\Fructe\obj\Debug\Fructe.Properties.Resources.resources
+E:\12C\C#\Fructe\Fructe\obj\Debug\Fructe.csproj.GenerateResource.cache
+E:\12C\C#\Fructe\Fructe\obj\Debug\Fructe.csproj.CoreCompileInputs.cache
+E:\12C\C#\Fructe\Fructe\bin\Debug\Fructe.exe.config
+E:\12C\C#\Fructe\Fructe\bin\Debug\Fructe.exe
+E:\12C\C#\Fructe\Fructe\bin\Debug\Fructe.pdb
+E:\12C\C#\Fructe\Fructe\obj\Debug\Fructe.exe
+E:\12C\C#\Fructe\Fructe\obj\Debug\Fructe.pdb
